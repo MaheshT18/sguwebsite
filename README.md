@@ -1,7 +1,5 @@
 # sguwebsite
 
-I have deployed this project to test and deploy it in aws.
-For 'AWS' Learning
-
+I have Deployed this Project to Test and Deploy it in 'AWS'.
 
 Sanjay Ghodawat University Website
