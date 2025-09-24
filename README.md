@@ -1,7 +1,7 @@
 # sguwebsite
 
 I have deployed this project to test and deploy it in aws.
-# for aws learning
+For 'AWS' Learning
 
 
 Sanjay Ghodawat University Website
